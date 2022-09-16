@@ -28,7 +28,7 @@
     animation: glow 1s ease-in-out infinite alternate;
   }
   
-  @-webkit-keyframes glow {
+  @keyframes glow {
     from {
       text-shadow: 0 0 10px rgb(177, 0, 0), 0 0 20px rgb(177, 0, 0), 0 0 30px #8b0347, 0 0 40px #b6005b, 0 0 50px #a30052, 0 0 60px #9c004e, 0 0 70px #880044;
     }
@@ -51,3 +51,29 @@
     text-align: center;
     line-height: 105px;
     font-size: 30px;
+  }
+
+  .fixed {
+    position: fixed;
+    bottom: 10px;  
+    right: 10px;
+  }
+
+   .abusoluto {
+    position: absolute;
+    border: 1px solid red;
+    top: 20px;
+    right: 10px;
+  }
+  
+  .relativo {
+    position: relative;
+    border: 1px solid blue;
+    width: 300px;
+    height: 100px;
+  }
+
+  .istiqui{
+   position: sticky;
+   bottom: 0;
+  }
