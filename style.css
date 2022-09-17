@@ -77,3 +77,15 @@
    position: sticky;
    bottom: 0;
   }
+
+  .pad{
+   border: 1px solid brown;
+   padding: 30px 50px 30px 80px;
+   background-color: lightblue;
+
+  }
+
+  .margen{
+   margin: 100px 100px 100px 100px;
+  background-color: darkolivegreen;
+  }
