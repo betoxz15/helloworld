@@ -103,7 +103,8 @@
 .line{
   display: inline;
   background-color: blue;
-
+  color: white;
+  margin: 10px;
 }
 
 .block{
