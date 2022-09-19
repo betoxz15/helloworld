@@ -98,4 +98,24 @@
   font-family: 'Saira Condensed', sans-serif;
 
 
+} 
+
+.line{
+  display: inline;
+  background-color: blue;
+
+}
+
+.block{
+  display: block;
+  background-color: greenyellow;
+  width: 500px;
+} 
+
+.ib{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: #a30052;
+  color: white;
 }
