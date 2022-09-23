@@ -134,3 +134,12 @@ p {
 
 }
 
+div p {
+background-color: rgb(170, 0, 113);
+color: #ddd;
+}
+
+div > p {
+ background-color:rgb(0, 0, 0);
+ color: white;
+}
