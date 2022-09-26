@@ -57,11 +57,13 @@
   bottom: 10px;
   right: 10px;
 }
-.fixed_z-index{
-  height:30px ;
-   background-color: orange;
-   z-index: 10;
+
+.fixed_z-index {
+  height: 30px;
+  background-color: orange;
+  z-index: 10;
 }
+
 .abusoluto {
   position: absolute;
   border: 1px solid red;
@@ -125,37 +127,38 @@
   color: white;
 }
 
-#id{
-  background-color:forestgreen;
+#id {
+  background-color: forestgreen;
   font-size: 30px;
-  
+
 
 }
 
 p {
   background-color: #ff4da6;
-   border: blue;
+  border: blue;
 
 }
 
 div span {
-background-color: rgb(170, 0, 113);
-color: #ddd;
+  background-color: rgb(170, 0, 113);
+  color: #ddd;
 }
 
-div > span {
- background-color:rgb(0, 0, 0);
- color: white;
-} 
+div>span {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
 
-.dado{
+.dado {
   background-color: red;
 }
-.dado{
+
+.dado {
   background-color: rgb(98, 1, 189);
 }
 
-.z{
+.z {
   position: absolute;
   left: auto;
   width: auto;
