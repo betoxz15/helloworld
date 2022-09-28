@@ -183,3 +183,23 @@ div>span {
   background-color: silver;
   color: black;
 }
+
+.vh{
+  width: 75vh;
+  border: 1px solid green;
+}
+
+.vw{
+  width: 65vw;
+  border: 10px solid yellow;
+} 
+.por100{
+  height: 65%;
+  border: 1px solid rgb(255, 0, 0);
+}
+
+.paipor100{
+  width: 200px;
+  height: 300px;
+  border: 1px solid blue;
+}
