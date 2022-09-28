@@ -164,4 +164,22 @@ div>span {
   width: auto;
   background-color: rgb(177, 0, 0);
   z-index: 3;
+} 
+
+.rgb{
+   background-color: rgb(174, 111, 226);
+
+}
+
+.rgba{
+  background-color: rgba(251, 255, 0, 0.89);
+}
+
+.hex{
+  background-color: #a24570;
+}
+ 
+.texto{
+  background-color: silver;
+  color: black;
 }
