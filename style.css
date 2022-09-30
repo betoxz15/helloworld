@@ -164,42 +164,51 @@ div>span {
   width: auto;
   background-color: rgb(177, 0, 0);
   z-index: 3;
-} 
+}
 
-.rgb{
-   background-color: rgb(174, 111, 226);
+.rgb {
+  background-color: rgb(174, 111, 226);
 
 }
 
-.rgba{
+.rgba {
   background-color: rgba(251, 255, 0, 0.89);
 }
 
-.hex{
+.hex {
   background-color: #a24570;
 }
- 
-.texto{
+
+.texto {
   background-color: silver;
   color: black;
 }
 
-.vh{
+.vh {
   width: 75vh;
   border: 1px solid green;
 }
 
-.vw{
+.vw {
   width: 65vw;
   border: 10px solid yellow;
-} 
-.por100{
+}
+
+.por100 {
   height: 65%;
   border: 1px solid rgb(255, 0, 0);
 }
 
-.paipor100{
+.paipor100 {
   width: 200px;
   height: 300px;
   border: 1px solid blue;
+}
+
+img {
+  float: left;
+}
+
+.right {
+  float: right;
 }
