@@ -66,6 +66,20 @@
 .justify-content-evenly{
   justify-content: space-evenly ;
 }
+.flex-row{
+  flex-direction: row;
+}
+
+.flex-row-reverse{
+  flex-direction: row-reverse;
+}
+
+.flex-column{
+  flex-direction: column;
+}
+.flex-column-reverse{
+  flex-direction: column-reverse;
+}
 
 .flex-container>div {
   background-color: #f1f1f1;
@@ -236,3 +250,8 @@ img {
 .right {
   float: right;
 } 
+
+#main div {
+  width: 50px;
+  height: 50px;
+}
