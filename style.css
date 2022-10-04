@@ -43,41 +43,43 @@
   background-color: DodgerBlue;
 }
 
-.justify-content-center{
+.justify-content-center {
   justify-content: center;
 }
 
-.justify-content-start{
+.justify-content-start {
   justify-content: flex-start;
 }
 
-.justify-content-flex-end{
-  justify-content: flex-end ;
+.justify-content-flex-end {
+  justify-content: flex-end;
 }
 
-.justify-content-between{
-  justify-content: space-between ;
+.justify-content-between {
+  justify-content: space-between;
 }
 
-.justify-content-around{
-  justify-content: space-around ;
+.justify-content-around {
+  justify-content: space-around;
 }
 
-.justify-content-evenly{
-  justify-content: space-evenly ;
+.justify-content-evenly {
+  justify-content: space-evenly;
 }
-.flex-row{
+
+.flex-row {
   flex-direction: row;
 }
 
-.flex-row-reverse{
+.flex-row-reverse {
   flex-direction: row-reverse;
 }
 
-.flex-column{
+.flex-column {
   flex-direction: column;
 }
-.flex-column-reverse{
+
+.flex-column-reverse {
   flex-direction: column-reverse;
 }
 
@@ -249,7 +251,7 @@ img {
 
 .right {
   float: right;
-} 
+}
 
 #main div {
   width: 50px;
