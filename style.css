@@ -257,3 +257,25 @@ img {
   width: 50px;
   height: 50px;
 }
+
+.flex-to-box {
+display: flex;
+}
+
+.no-box {
+display: inline-block;
+  width: 800px;
+  height: 100px;
+  padding: 30px;  
+  border: 12px solid blue;
+margin: 20px;
+}
+
+.box{
+ box-sizing: border-box;
+}
+
+.no-box p {
+  font-size:10px;
+  line-height: 10px;
+}
