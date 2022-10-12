@@ -374,3 +374,19 @@ img {
   margin-left: 10px;
   margin-top: 10px;
 }
+
+#forme{
+  transform: translate(50px,20px,30px);
+  
+  border: 4px solid;
+  width: 200px;
+  text-align: center;
+}
+
+#forme2{
+  transform: translate(50px);
+  
+  border: 4px solid;
+  width: 200px;
+  text-align: center;
+}
