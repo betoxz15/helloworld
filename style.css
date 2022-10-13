@@ -399,3 +399,47 @@ img {
   margin-top: 10px;
   margin-left: 10px;
 }
+
+.op{
+  border-radius: 10px 10px 10px 10px;
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  opacity: 1.0;
+}
+
+.op2{
+  border-radius: 10px 10px 10px 10px;
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  opacity: 0.8;
+}
+
+.op3{
+  border-radius: 10px 10px 10px 10px;
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  opacity: 0.6;
+}
+
+.op4{
+  border-radius: 10px 10px 10px 10px;
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  opacity: 0.4;
+}
