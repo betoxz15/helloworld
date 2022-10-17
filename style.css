@@ -451,3 +451,28 @@ img {
   width: 100px;
   height: 100px;
 }
+
+.size{
+    border: 2px solid black;
+    padding: 25px;
+    background: url(apple.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.size2{
+  border: 2px solid black;
+  padding: 25px;
+  background: url(apple.jpg);
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+body {
+  background-image: url("fundo3.jpg")
+}
