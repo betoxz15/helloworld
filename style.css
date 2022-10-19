@@ -476,3 +476,38 @@ img {
 body {
   background-image: url("fundo3.jpg")
 }
+
+.word{
+  word-break: break-all;
+  border: 1px solid black;
+  width: 150px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.te{
+  border: 1px solid black;
+  overflow: hidden;
+  text-overflow: clip;
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.te2{
+  border: 1px solid black;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+} 
+ 
+.te3{
+  border: 1px solid black;
+  overflow: hidden;
+  text-overflow: "----";
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+} 
