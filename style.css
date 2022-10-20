@@ -452,18 +452,18 @@ img {
   height: 100px;
 }
 
-.size{
-    border: 2px solid black;
-    padding: 25px;
-    background: url(apple.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
-    width: 200px;
-    margin-top: 20px;
-    margin-left: 20px;
+.size {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(apple.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
-.size2{
+.size2 {
   border: 2px solid black;
   padding: 25px;
   background: url(apple.jpg);
@@ -477,7 +477,7 @@ body {
   background-image: url("fundo3.jpg")
 }
 
-.word{
+.word {
   word-break: break-all;
   border: 1px solid black;
   width: 150px;
@@ -485,7 +485,7 @@ body {
   margin-left: 20px;
 }
 
-.te{
+.te {
   border: 1px solid black;
   overflow: hidden;
   text-overflow: clip;
@@ -494,20 +494,20 @@ body {
   margin-left: 20px;
 }
 
-.te2{
+.te2 {
   border: 1px solid black;
   overflow: hidden;
   text-overflow: ellipsis;
   width: 50px;
   margin-top: 20px;
   margin-left: 20px;
-} 
- 
-.te3{
+}
+
+.te3 {
   border: 1px solid black;
   overflow: hidden;
   text-overflow: "----";
   width: 50px;
   margin-top: 20px;
   margin-left: 20px;
-} 
+}
