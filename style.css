@@ -511,3 +511,15 @@ body {
   margin-top: 20px;
   margin-left: 20px;
 }
+
+.gradients{
+  background: linear-gradient(to bottom,#16A085  , #F4D03F );
+}
+
+.gradients2{
+  background: linear-gradient(to left,#00467F, #A5CC82);
+}
+
+.gradients3{
+  background: linear-gradient(to top,#00416A, #799F0C, #FFE000);
+}
