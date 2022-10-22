@@ -523,3 +523,7 @@ body {
 .gradients3{
   background: linear-gradient(to top,#00416A, #799F0C, #FFE000);
 }
+
+.gradients4:hover {
+  background: linear-gradient(to right,#00416A, #799F0C, #FFE000);
+}
