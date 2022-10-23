@@ -527,3 +527,43 @@ body {
 .gradients4:hover {
   background: linear-gradient(to right,#00416A, #799F0C, #FFE000);
 }
+
+.te{
+  font-size: small;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.te1{
+  font-size: small;
+  text-align: right;
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.te2{
+  font-size: small;
+  text-align: left;
+  height: 300px;
+  width: 300px;rgb(228, 225, 225)
+  border: 1px solid black;
+}
+
+.te3{
+  font-size: small;
+  text-align: end;
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.te4{
+  font-size: small;
+  text-align: justify;
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
