@@ -474,7 +474,7 @@ img {
 }
 
 body {
-  background-image: url("fundo3.jpg")
+  background-image: url("fundo.jpg")
 }
 
 .word {
@@ -662,3 +662,7 @@ body {
   align-items:stretch;
 }
 
+table, th, td {
+  border:1px solid rgb(255, 255, 255);
+  color: white;
+}
