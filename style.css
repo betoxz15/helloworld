@@ -512,23 +512,23 @@ body {
   margin-left: 20px;
 }
 
-.gradients{
-  background: linear-gradient(to bottom,#16A085  , #F4D03F );
+.gradients {
+  background: linear-gradient(to bottom, #16A085, #F4D03F);
 }
 
-.gradients2{
-  background: linear-gradient(to left,#00467F, #A5CC82);
+.gradients2 {
+  background: linear-gradient(to left, #00467F, #A5CC82);
 }
 
-.gradients3{
-  background: linear-gradient(to top,#00416A, #799F0C, #FFE000);
+.gradients3 {
+  background: linear-gradient(to top, #00416A, #799F0C, #FFE000);
 }
 
 .gradients4:hover {
-  background: linear-gradient(to right,#00416A, #799F0C, #FFE000);
+  background: linear-gradient(to right, #00416A, #799F0C, #FFE000);
 }
 
-.te{
+.te {
   font-size: small;
   text-align: center;
   height: 300px;
@@ -536,7 +536,7 @@ body {
   border: 1px solid black;
 }
 
-.te1{
+.te1 {
   font-size: small;
   text-align: right;
   height: 300px;
@@ -544,15 +544,15 @@ body {
   border: 1px solid black;
 }
 
-.te2{
+.te2 {
   font-size: small;
   text-align: left;
   height: 300px;
-  width: 300px;rgb(228, 225, 225)
-  border: 1px solid black;
+  width: 300px;
+  rgb(228, 225, 225) border: 1px solid black;
 }
 
-.te3{
+.te3 {
   font-size: small;
   text-align: end;
   height: 300px;
@@ -560,7 +560,7 @@ body {
   border: 1px solid black;
 }
 
-.te4{
+.te4 {
   font-size: small;
   text-align: justify;
   height: 300px;
@@ -587,10 +587,10 @@ body {
   border: 3px solid rgba(0, 0, 0, 0.2);
 }
 
-#items{
+#items {
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1px solid black;
   display: flex;
   align-items: center;
 }
@@ -602,12 +602,12 @@ body {
   align-items: center;
 }
 
-#items2{
+#items2 {
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1px solid black;
   display: flex;
-  align-items:baseline;
+  align-items: baseline;
 }
 
 #items2 div {
@@ -617,12 +617,12 @@ body {
   align-items: baseline;
 }
 
-#items3{
+#items3 {
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1px solid black;
   display: flex;
-  align-items:flex-end;
+  align-items: flex-end;
 }
 
 #items3 div {
@@ -632,12 +632,12 @@ body {
   align-items: flex-end;
 }
 
-#items4{
+#items4 {
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1px solid black;
   display: flex;
-  align-items:flex-start;
+  align-items: flex-start;
 }
 
 #items4 div {
@@ -647,22 +647,24 @@ body {
   align-items: flex-start;
 }
 
-#items5{
+#items5 {
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1px solid black;
   display: flex;
-  align-items:stretch;
+  align-items: stretch;
 }
 
 #items5 div {
   flex: 1;
   border: 1px solid black;
   display: flex;
-  align-items:stretch;
+  align-items: stretch;
 }
 
-table, th, td {
-  border:1px solid rgb(255, 255, 255);
+table,
+th,
+td {
+  border: 1px solid rgb(255, 255, 255);
   color: white;
 }
