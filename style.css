@@ -668,3 +668,26 @@ td {
   border: 1px solid rgb(255, 255, 255);
   color: white;
 }
+
+.grab{
+  cursor: grab;
+}
+
+.wait{
+  cursor: wait;
+}
+
+.not{
+  cursor: not-allowed;
+}
+
+.zoom{
+  cursor: zoom-in;
+}
+
+.zoom ,.not ,.wait ,.grab{
+  background-color: white;
+  color: black;
+  font-size: 50px;
+}
+
