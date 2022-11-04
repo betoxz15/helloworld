@@ -691,3 +691,13 @@ td {
   font-size: 50px;
 }
 
+.transicao{
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
+
+.transicao:hover {
+  width: 1115px
+}
