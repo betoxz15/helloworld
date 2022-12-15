@@ -19,6 +19,12 @@
         background-color: #FFEFAE;
     }
 
+    .navbar-button{
+        background-color: #7E0505;
+        color: white;
+        border-color: #7E0505;
+    }
+
     .meunome{
         text-align: center;
         padding: 200px;
@@ -37,16 +43,51 @@
         padding: 30px 0;
        
     }
+
+    .bg-light{
+        background-color: #FFEFAE!important;
+    }
+
+    .navbar-button{
+        margin-right: 15px;
+    }
+
+    
 </style>
 
 <body class="doh1">
-        <div class="top-bar-content">
-           Inicio  Sobre  Portifolio  Blog  Contato
-        </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+  <div></div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+    <ul class="navbar-nav mx-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Incio <span class="sr-only"></span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Portifolio</a>
+      </li>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Contato</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+     
+      <button class="navbar-button" type="submit">Vamos Conversar</button>
+    </form>
+  </div>
+</nav>
 
         <div >
             <h1 class="meunome">HUMBERTO</h1>
         </div>
+
+        
 </body>
 
 </html>
